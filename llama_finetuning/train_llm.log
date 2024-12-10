@@ -1,0 +1,37 @@
+Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.58s/it]
+Map: 100%|██████████| 24829/24829 [00:23<00:00, 1072.05 examples/s]
+  0%|          | 0/3000 [00:00<?, ?it/s]
+{'loss': 0.798, 'learning_rate': 0.00019863013698630139, 'epoch': 2.0}
+{'loss': 0.3169, 'learning_rate': 0.0001917808219178082, 'epoch': 4.0}
+{'loss': 0.2412, 'learning_rate': 0.0001849315068493151, 'epoch': 6.0}
+{'loss': 0.1746, 'learning_rate': 0.00017808219178082192, 'epoch': 8.0}
+{'loss': 0.1244, 'learning_rate': 0.00017123287671232877, 'epoch': 10.0}
+{'loss': 0.0869, 'learning_rate': 0.00016438356164383562, 'epoch': 12.0}
+{'loss': 0.0643, 'learning_rate': 0.00015753424657534247, 'epoch': 14.0}
+{'loss': 0.0481, 'learning_rate': 0.00015068493150684933, 'epoch': 16.0}
+{'loss': 0.0327, 'learning_rate': 0.00014383561643835618, 'epoch': 18.0}
+{'loss': 0.0218, 'learning_rate': 0.000136986301369863, 'epoch': 20.0}
+{'loss': 0.0175, 'learning_rate': 0.00013013698630136988, 'epoch': 22.0}
+{'loss': 0.0151, 'learning_rate': 0.0001232876712328767, 'epoch': 24.0}
+{'loss': 0.0159, 'learning_rate': 0.00011643835616438356, 'epoch': 26.0}
+{'loss': 0.0134, 'learning_rate': 0.00010958904109589041, 'epoch': 28.0}
+{'loss': 0.0111, 'learning_rate': 0.00010273972602739728, 'epoch': 30.0}
+{'loss': 0.0107, 'learning_rate': 9.58904109589041e-05, 'epoch': 32.0}
+{'loss': 0.0105, 'learning_rate': 8.904109589041096e-05, 'epoch': 34.0}
+{'loss': 0.0103, 'learning_rate': 8.219178082191781e-05, 'epoch': 36.0}
+{'loss': 0.0102, 'learning_rate': 7.534246575342466e-05, 'epoch': 38.0}
+{'loss': 0.01, 'learning_rate': 6.84931506849315e-05, 'epoch': 40.0}
+{'loss': 0.0099, 'learning_rate': 6.164383561643835e-05, 'epoch': 42.0}
+{'loss': 0.0098, 'learning_rate': 5.479452054794521e-05, 'epoch': 44.0}
+{'loss': 0.0097, 'learning_rate': 4.794520547945205e-05, 'epoch': 46.0}
+{'loss': 0.0096, 'learning_rate': 4.1095890410958905e-05, 'epoch': 48.0}
+{'loss': 0.0095, 'learning_rate': 3.424657534246575e-05, 'epoch': 50.0}
+{'loss': 0.0094, 'learning_rate': 2.7397260273972603e-05, 'epoch': 52.0}
+{'loss': 0.0093, 'learning_rate': 2.0547945205479453e-05, 'epoch': 54.0}
+{'loss': 0.0092, 'learning_rate': 1.3698630136986302e-05, 'epoch': 56.0}
+{'loss': 0.0091, 'learning_rate': 6.849315068493151e-06, 'epoch': 58.0}
+{'loss': 0.0089, 'learning_rate': 0.0, 'epoch': 60.0}
+{'train_runtime': 3464.5568, 'train_samples_per_second': 1.732, 'train_steps_per_second': 0.866, 'train_loss': 0.07093594920635224, 'epoch': 60.0}
+100%|██████████| 3000/3000 [57:44<00:00,  1.15s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:03<00:00,  1.63s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.88s/it]

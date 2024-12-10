@@ -1,0 +1,41 @@
+wandb: Run history:
+wandb:                  eval/accuracy ▁▇▆▅▄█▇▇▇▆▄█
+wandb:                        eval/f1 ▁▇▆▅▄█▇██▆▄█
+wandb:                      eval/loss ▁▂▂▄▅▄▄▄▅▆█▄
+wandb:                 eval/precision ▁▆▆▆▆█▇██▆▇█
+wandb:                    eval/recall ▁▇▆▅▄█▇▇▇▆▄█
+wandb:                   eval/runtime █▂▂▄▃▃▃▂▂▁▁▅
+wandb:        eval/samples_per_second ▁▇▇▄▆▆▆▇▇██▄
+wandb:          eval/steps_per_second ▁▇▇▄▆▆▆▇▇██▄
+wandb:                    train/epoch ▁▁▂▂▂▂▃▃▄▄▅▅▅▅▆▆▇▇▇▇████
+wandb:              train/global_step ▁▁▂▂▂▂▃▃▄▄▅▅▅▅▆▆▇▇▇▇████
+wandb:            train/learning_rate █▇▇▆▅▅▄▃▂▂▁
+wandb:                     train/loss █▃▂▂▂▁▁▁▁▁▁
+wandb:               train/total_flos ▁
+wandb:               train/train_loss ▁
+wandb:            train/train_runtime ▁
+wandb: train/train_samples_per_second ▁
+wandb:   train/train_steps_per_second ▁
+wandb: 
+wandb: Run summary:
+wandb:                  eval/accuracy 0.86704
+wandb:                        eval/f1 0.86589
+wandb:                      eval/loss 0.94081
+wandb:                 eval/precision 0.87081
+wandb:                    eval/recall 0.86704
+wandb:                   eval/runtime 9.5107
+wandb:        eval/samples_per_second 631.079
+wandb:          eval/steps_per_second 39.534
+wandb:                    train/epoch 11
+wandb:              train/global_step 22242
+wandb:            train/learning_rate 3e-05
+wandb:                     train/loss 0.0264
+wandb:               train/total_flos 4.0555356011234104e+16
+wandb:               train/train_loss 0.10636
+wandb:            train/train_runtime 3933.8542
+wandb: train/train_samples_per_second 493.219
+wandb:   train/train_steps_per_second 15.42
+wandb: 
+wandb: 🚀 View run BERT Finetuning at: https://wandb.ai/oiehhun-yonsei-university
+wandb: ⭐️ View project at: https://wandb.ai/oiehhun-yonsei-university
+{'eval_loss': 0.9408050775527954, 'eval_accuracy': 0.8670443185604798, 'eval_f1': 0.8658926102591465, 'eval_precision': 0.8708137353384181, 'eval_recall': 0.8670443185604798, 'eval_runtime': 9.5107, 'eval_samples_per_second': 631.079, 'eval_steps_per_second': 39.534, 'epoch': 11.0}
